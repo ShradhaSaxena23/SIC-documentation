@@ -1,0 +1,9 @@
+Learn basic concepts of python 
+-where it is used
+-advantages of python
+-future scope
+-libraries in python 
+
+chapter 1 is all about sequential statement 
+
+we learnt about data types, operators ,keywords , basic syntax in python ,errors in python 
